@@ -13,7 +13,7 @@ I’m currently building full-stack and mobile applications, working on real-wor
 Frontend: JavaScript, HTML, CSS, React
 Mobile: React Native, Expo
 Backend: Node.js, APIs, authentication systems
-Tools: Git, GitHub, VS Code
+Tools: Git, GitHub, Cursor
 
 📫 How to reach me
 
