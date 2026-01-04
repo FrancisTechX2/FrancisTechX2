@@ -1,55 +1,21 @@
 ## Hi there 👋
 
-I'm a full-stack developer focused on building web and mobile apps that actually get used. I work mostly with JavaScript, React, and modern app tooling, and I’m especially interested in products that combine clean UX with real-world utility.
+👋 Who I am
 
-Right now, I’m actively building and experimenting with:
+I’m a developer focused on building modern web and mobile applications, with a strong interest in clean architecture, performance, and user experience. I enjoy turning ideas into real, usable products.
 
-📱 Mobile apps using React Native & Expo (iOS + Android)
+🚧 What I’m currently working on
 
-🌐 Full-stack web apps with authentication and state management
+I’m currently building full-stack and mobile applications, working on real-world features like authentication, data management, and responsive UI.
 
-🤖 AI-assisted development to move faster and smarter
+🛠️ Tech stack
 
-🧠 Tech I Use
+Frontend: JavaScript, HTML, CSS, React
+Mobile: React Native, Expo
+Backend: Node.js, APIs, authentication systems
+Tools: Git, GitHub, VS Code
 
-Frontend / Mobile
+📫 How to reach me
 
-JavaScript / TypeScript
-
-React / React Native
-
-Expo
-
-Backend / App Logic
-
-Authentication systems
-
-API integration
-
-State management
-
-Tools & Workflow
-
-Git & GitHub
-
-AI tools integrated into development
-
-🎯 Goals
-
-Master full-stack and mobile development
-
-Build and publish real products
-
-Stay ahead in the AI-driven software world
-
-Create apps that help people and generate income
-
-🌍 A Bit About Me
-
-Based in Poland (Warsaw time zone)
-
-Coding-focused, product-driven
-
-Long-term goal: work internationally, build impactful tech, and keep shipping
-
-⭐ Always building. Always learning.
+You can learn more about me and my work through my portfolio:
+👉 https://franciskierzkiewicz.dev
