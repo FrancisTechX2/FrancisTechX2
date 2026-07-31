@@ -1,21 +1,21 @@
-## Hi there 👋
+Hi, I’m Francis 👋
 
-👋 Who I am
+I’m a student and aspiring software engineer who has been building software for the past five years. I enjoy creating complete products, from designing intuitive user experiences to building reliable backend systems. My focus is full-stack development, building modern web and mobile applications with attention to clean architecture, performance, and usability.
 
-I’m a developer focused on building modern web and mobile applications, with a strong interest in clean architecture, performance, and user experience. I enjoy turning ideas into real, usable products.
+I’m constantly learning, experimenting with new technologies, and improving my development workflow. I enjoy turning ideas into real products, solving problems through software, and building experiences that are simple and enjoyable to use.
 
-🚧 What I’m currently working on
+🚀 Tech Stack
 
-I’m currently building full-stack and mobile applications, working on real-world features like authentication, data management, and responsive UI.
+Frontend: JavaScript, TypeScript, React, Next.js, Tailwind CSS
+Mobile: React Native, Expo, Swift, SwiftUI
+Backend: Node.js, Express, PostgreSQL, Prisma, Authentication
+Tools: Git, GitHub, Cursor, Claude Code
 
-🛠️ Tech stack
+💻 What I build
 
-Frontend: JavaScript, HTML, CSS, React
-Mobile: React Native, Expo
-Backend: Node.js, APIs, authentication systems
-Tools: Git, GitHub, Cursor
+Full-stack SaaS applications, modern web platforms, mobile applications, and user-focused products. I enjoy working across the entire development process — from UI/UX design and frontend architecture to backend systems and databases.
 
-📫 How to reach me
+📫 Find me
 
-You can learn more about me and my work through my portfolio:
-👉 https://franciskierzkiewicz.dev
+Portfolio: franciskierzkiewicz.dev
+(Currently being refreshed with new projects and updates.)
